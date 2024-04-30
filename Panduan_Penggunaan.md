@@ -68,13 +68,15 @@ pada saat user memilih opsi 3 di menu admin, maka user akan disuruh memilih mau 
 
 **Urutan secara ascending**
 
-![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/10c4070a-4996-4092-986a-97fdcd5b45b5)
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/727014f3-c35e-407d-8d16-188a19d2baf8)
 
-Pada saat user memilih opsi 1 maka program akan menampilkan hasil dari penggurutan nama pengguna secara ascending atau dari yang paling kecil menurut id pengguna masing masing.
+Pada saat user memilih opsi 1 maka program akan menampilkan hasil dari penggurutan nama pengguna secara ascending atau dari yang paling kecil menurut abjad.
 
 **Urutan secara descending**
 
-Pada saat user memilih opsi 1 maka program akan menampilkan hasil dari penggurutan nama pengguna secara descending atau dari yang paling besar menurut id pengguna masing masing.
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/ba0018e2-13e4-4bc7-a839-041b4a32631a)
+
+Pada saat user memilih opsi 1 maka program akan menampilkan hasil dari penggurutan nama pengguna secara descending atau dari yang paling besar menurut abjad.
 
 **4. Search nama pengguna**
 
@@ -125,3 +127,8 @@ Setelah user memilih metode pelatihan, program akan menampilkan beberapa pilihan
 
 Setelah user memilih hari pelatihan, program akan menampilkan beberapa pilihan sesi pelatihan yang tersedia yaitu sesi pagi , sesi siang dan juga sesi malam.
 
+**Pilihan Pelatihan**
+
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/7a24088e-3fe5-456e-a299-e8eb55620d6e)
+
+Setelah user selesai memilih semua, program akan menampilkan semua pilihan user dari materi pelatihan, metode pelatihan, hari pelatihan, dan juga sesi pelatihan.
