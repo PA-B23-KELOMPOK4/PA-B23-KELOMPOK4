@@ -7,9 +7,48 @@
 
 ## STRUKTUR PROJECT
 ### A. Library
-1. import mysql.connector, 
-
+1. import mysql.connector, untuk menghubungkan program Python dengan database MySQL
+2. from prettytable import PrettyTable, untuk membuat hasil tampilan program berbentuk tabel sehingga tampilan terlihat rapi dan terstruktur.
+### B. Linked List
+- class Node
+- class LinkedList
+### C. Fungsi
+- def append
+- def quicksort
+- def jump_search
+- def search_user_by_name
+- def authenticate_admin
+- def tambah_data_pengguna
+- def tampilkan_data_pengguna
+- def update_data_pengguna
+- def hapus_data_pengguna
+- def show_edit_tabel
+- def choose_edit_tabel
+- def authenticate_pengguna
+- def show_admin_menu
+- def login_admin
+- def show_training_method_menu
+- def choose_training_method
+- def show_training_session_menu
+- def choose_training_session
+- def show_user_menu
+- def show_learning_materials
+- def show_training_day_menu
+- def login_pengguna
+  
 ## FITUR
+Adapun fitur fitur yang terdapat dalam program platform mirin yaitu:
+- Login sebagai admin
+- Login sebagai pengguna
+- Menambahkan data pengguna
+- Menampilkan data pengguna
+- Menghapus data pengguna
+- Mengupdate data pengguna
+- Megurutkan data pengguna
+- Search data pengguna
+- Menampilkan dan memilih materi pembelajran
+- Menampilkan dan memilih metode pelatihan
+- Menampilkan dan memilih 
 
 ## FUNGSIONALITAS
 
