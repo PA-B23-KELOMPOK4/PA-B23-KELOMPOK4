@@ -48,7 +48,22 @@ Adapun fitur fitur yang terdapat dalam program platform mirin yaitu:
 - Search data pengguna
 - Menampilkan dan memilih materi pembelajran
 - Menampilkan dan memilih metode pelatihan
-- Menampilkan dan memilih 
+- Menampilkan dan memilih hari pelatihan
+- Menampilkan dan memilih sesi pelatihan
+- Menampilkan hasil jadwal pelatihan pengguna
 
 ## FUNGSIONALITAS
+> User melakukan login terlebih dahulu untuk masuk ke dalam program, dengan cara memasukkan nama user yang sesuai. User dapat memilih dua pilihan login yaitu login sebagai admin atau login sebagai pengguna, user juga dapat keluar dari program dengan memilih menu keluar. Penjelasan terkait fungsionalitas 2 jenis user tersebut yaitu:
+
+**1. Admin**
+- Menambah, Admin memiliki akses untuk menambah data pengguna baru ke dalam database
+- Menampilkan, Admin memiliki akses untuk melihat semua data pengguna yang ada didalam database
+- Menghapus, Admin memiliki akses untuk menghapus data pengguna dari database
+- Mengupdate, Admin memiliki akses untuk memperbarui data pengguna di database
+- Mengurutkan, Admin dapat melakukan pengurutan data pengguna berdasarkan nama
+- Searching, Admin dapat mencari data pengguna yang diinginkan berdasarkan nama
+
+  **2. Pengguna**
+  - Memilih, pengguna dapat memilih materi pembelajaran, metode pelatihan, hari pelatihan, dan sesi pelatihan sesuai dengan kterampilan yang ingin ditingkatkan oleh pengguna
+  - Menampilkan, pengguna dapat melihat menu terlebih dahulu sebelum melakukan inputan pilihan dan dapat melihat jadwal yang telah dipilih oleh pengguna
 
