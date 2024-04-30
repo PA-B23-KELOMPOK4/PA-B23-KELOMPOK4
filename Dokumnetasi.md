@@ -63,7 +63,7 @@ Adapun fitur fitur yang terdapat dalam program platform mirin yaitu:
 - Mengurutkan, Admin dapat melakukan pengurutan data pengguna berdasarkan nama
 - Searching, Admin dapat mencari data pengguna yang diinginkan berdasarkan nama
 
-  **2. Pengguna**
-  - Memilih, pengguna dapat memilih materi pembelajaran, metode pelatihan, hari pelatihan, dan sesi pelatihan sesuai dengan kterampilan yang ingin ditingkatkan oleh pengguna
-  - Menampilkan, pengguna dapat melihat menu terlebih dahulu sebelum melakukan inputan pilihan dan dapat melihat jadwal yang telah dipilih oleh pengguna
+**2. Pengguna**
+- Memilih, pengguna dapat memilih materi pembelajaran, metode pelatihan, hari pelatihan, dan sesi pelatihan sesuai dengan kterampilan yang ingin ditingkatkan oleh pengguna
+- Menampilkan, pengguna dapat melihat menu terlebih dahulu sebelum melakukan inputan pilihan dan dapat melihat jadwal yang telah dipilih oleh pengguna
 
