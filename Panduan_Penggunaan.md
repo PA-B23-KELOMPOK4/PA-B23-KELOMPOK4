@@ -105,7 +105,23 @@ Setelah login sebagai pengguna, maka user akan ditampilkan menu dari menu penggu
 
 ![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/e13f32ed-561d-46d9-9390-75af59ace2a9)
 
+Pada saat user memilih opsi 1 di menu pengguna, maka user akan ditampilkan beberapa materi yang tersedia yaitu desain grafis ui/ux, pemrograman, kemampuan interpersonal, analisis data, dan juga databases sehingga user dapat memilih materi yang diinginkan.  
+
 **Pemilihan metode Pelatihan**
 
-![WhatsApp Image 2024-05-01 at 01 41 07_49d66aa6](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/4077282e-8af1-4e46-b058-e70d366c012d)
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/4077282e-8af1-4e46-b058-e70d366c012d)
+
+Setelah user memilih materi yang dinginkan, program akan menampilkan beberapa pilihan metode pelatihan yang tersedia yaitu bisa secara offline dan secara online.
+
+**Pemilihan hari pelatihan**
+
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/823bffe4-1166-4831-bad7-cc09ecf7c88f)
+
+Setelah user memilih metode pelatihan, program akan menampilkan beberapa pilihan hari pelatihan yang tersedia yaitu senin, selasa, rabu, kamis, dan jumat.
+
+**Pemilihan sesi pelatihan**
+
+![WhatsApp Image](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/df1d438b-1659-4a4e-ad9c-c214eef40068)
+
+Setelah user memilih hari pelatihan, program akan menampilkan beberapa pilihan sesi pelatihan yang tersedia yaitu sesi pagi , sesi siang dan juga sesi malam.
 
