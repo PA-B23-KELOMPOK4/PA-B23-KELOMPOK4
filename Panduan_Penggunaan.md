@@ -103,7 +103,7 @@ Pada saat user opsi login 2 di menu utama, user akan terlebih dahulu disuruh men
 
 Setelah login sebagai pengguna, maka user akan ditampilkan menu dari menu pengguna yang terdiri dari Tampilkan Materi pembelajaran dan logout dari menu pengguna.
 
-**Tampilkan materi pembelajaran**
+**1. Tampilkan materi pembelajaran**
 
 ![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/e13f32ed-561d-46d9-9390-75af59ace2a9)
 
@@ -132,3 +132,9 @@ Setelah user memilih hari pelatihan, program akan menampilkan beberapa pilihan s
 ![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/7a24088e-3fe5-456e-a299-e8eb55620d6e)
 
 Setelah user selesai memilih semua, program akan menampilkan semua pilihan user dari materi pelatihan, metode pelatihan, hari pelatihan, dan juga sesi pelatihan.
+
+**2. Logout**
+
+![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/f4f9c76d-8fb3-4038-8fa5-a36d29c6d696)
+
+Pada saat user memilih opsi 2, maka program akan keluar dari menu pengguna dan kembali ke menu utama.
