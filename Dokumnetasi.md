@@ -20,7 +20,30 @@
 2. from prettytable import PrettyTable, untuk membuat hasil tampilan program berbentuk tabel sehingga tampilan terlihat rapi dan terstruktur.
 ### B. Linked List
 - class Node
+- class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+  fungsi ini class Node: Ini adalah kelas untuk merepresentasikan simpul atau node dalam linked list. Setiap simpul memiliki dua atribut: data, yang menyimpan data yang diinginkan, dan next, yang adalah referensi ke simpul berikutnya dalam linked list.
+__init__(self, data): Ini adalah konstruktor kelas Node. Ketika sebuah objek Node dibuat, konstruktor ini dijalankan. Ini menginisialisasi data simpul dengan nilai yang diberikan dan mengatur next menjadi None (karena simpul baru belum ditautkan ke simpul lain).
 - class LinkedList
+- class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def append(self, data):
+        new_node = Node(data)
+        if not self.head:
+            self.head = new_node
+            return
+        last_node = self.head
+        while last_node.next:
+            last_node = last_node.next
+        last_node.next = new_node
+  class LinkedList: Ini adalah kelas untuk merepresentasikan linked list itu sendiri. Linked list memiliki satu atribut utama, yaitu head, yang merupakan referensi ke simpul pertama dalam linked list.
+__init__(self): Ini adalah konstruktor kelas LinkedList. Ketika sebuah objek LinkedList dibuat, konstruktor ini dijalankan. Ini menginisialisasi head menjadi None, karena linked list awalnya kosong.
+append(self, data): Ini adalah metode untuk menambahkan data baru ke akhir linked list. Metode ini membuat sebuah simpul baru dengan data yang diberikan, kemudian menautkannya ke linked list. Jika linked list masih kosong (artinya head adalah None), simpul baru tersebut akan diatur sebagai head. Jika tidak, metode ini akan mencari simpul terakhir dalam linked list dan menautkan simpul baru tersebut ke simpul terakhir menggunakan atribut next.
+- 
 ### C. Fungsi
 - def append
 - def quicksort
