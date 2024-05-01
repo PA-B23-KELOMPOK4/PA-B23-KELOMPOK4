@@ -46,27 +46,49 @@ append(self, data): Ini adalah metode untuk menambahkan data baru ke akhir linke
 - 
 ### C. Fungsi
 - def append
-- def quicksort
-- def jump_search
-- def search_user_by_name
-- def authenticate_admin
-- def tambah_data_pengguna
-- def tampilkan_data_pengguna
-- def update_data_pengguna
-- def hapus_data_pengguna
-- def show_edit_tabel
-- def choose_edit_tabel
-- def authenticate_pengguna
-- def show_admin_menu
-- def login_admin
-- def show_training_method_menu
-- def choose_training_method
-- def show_training_session_menu
-- def choose_training_session
-- def show_user_menu
-- def show_learning_materials
-- def show_training_day_menu
-- def login_pengguna
+- def quicksort(arr, key=lambda x: x[0], reverse=False): Fungsi ini digunakan untuk mengurutkan array menggunakan algoritma quicksort. Fungsi ini memiliki parameter arr yang merupakan array yang akan diurutkan, key yang merupakan fungsi kunci untuk menentukan kriteria pengurutan (secara default pengurutan dilakukan berdasarkan elemen pertama dari tuple), dan reverse yang menentukan apakah pengurutan dilakukan secara ascending atau descending.
+  
+- def jump_search(arr, x): Fungsi ini digunakan untuk mencari elemen dalam array menggunakan algoritma jump search. Fungsi ini memiliki parameter arr yang merupakan array yang akan dicari, dan x yang merupakan elemen yang ingin dicari.
+  
+- def search_user_by_name(): Fungsi ini meminta input nama pengguna dari pengguna, kemudian mencari data pengguna berdasarkan nama pengguna yang dimasukkan. Jika data ditemukan, informasi pengguna ditampilkan. Jika tidak, pesan bahwa data tidak ditemukan akan ditampilkan.
+  
+- def authenticate_admin(nama_admin): Fungsi ini digunakan untuk mengotentikasi admin berdasarkan nama admin yang diberikan. Fungsi ini akan melakukan pencarian di database untuk mencocokkan nama admin.
+  
+- def tambah_data_pengguna(): Fungsi ini meminta input data pengguna (ID pengguna, ID materi, nama pengguna, keterampilan, tujuan karier), kemudian menambahkan data tersebut ke database.
+  
+- def tampilkan_data_pengguna(): Fungsi ini menampilkan seluruh data pengguna yang ada dalam database.
+  
+- def update_data_pengguna(): Fungsi ini meminta input ID pengguna yang ingin diperbarui, kemudian memperbarui data pengguna berdasarkan input yang diberikan.
+  
+- def hapus_data_pengguna(): Fungsi ini meminta input ID pengguna yang ingin dihapus, kemudian menghapus data pengguna dari database.
+  
+- def show_edit_tabel(): Fungsi ini menampilkan menu untuk mengedit tabel data pengguna.
+  
+- def choose_edit_tabel(): Fungsi ini meminta input pilihan dari pengguna dan memilih tindakan yang sesuai berdasarkan pilihan tersebut.
+  
+- def authenticate_pengguna(nama_pengguna): Fungsi ini digunakan untuk mengotentikasi pengguna berdasarkan nama pengguna yang diberikan.
+  
+- def show_admin_menu(): Fungsi ini menampilkan menu untuk admin.
+  
+- def login_admin(): Fungsi ini meminta nama admin, kemudian melakukan proses login sebagai admin. Setelah login berhasil, menu admin akan ditampilkan.
+  
+- def show_training_method_menu(): Fungsi ini menampilkan menu untuk memilih metode pelatihan.
+  
+- def choose_training_method(): Fungsi ini meminta input pilihan metode pelatihan dari pengguna dan mengembalikan metode yang dipilih.
+  
+- def show_training_session_menu(): Fungsi ini menampilkan menu untuk memilih sesi pelatihan.
+  
+- def choose_training_session(): Fungsi ini meminta input pilihan sesi pelatihan dari pengguna dan mengembalikan sesi yang dipilih.
+  
+- def show_user_menu(): Fungsi ini menampilkan menu untuk pengguna.
+
+- def show_learning_materials(): Fungsi ini menampilkan menu untuk memilih materi pembelajaran.
+  
+- def show_training_day_menu(): Fungsi ini menampilkan menu untuk memilih hari pelatihan.
+  
+- def login_pengguna(): Fungsi ini digunakan untuk login sebagai pengguna. Setelah login berhasil, menu pengguna akan ditampilkan.
+
+- def main(): Fungsi utama yang menjalankan program. Pada fungsi ini, pengguna diminta untuk memilih apakah akan login sebagai admin atau pengguna, atau keluar dari program.
   
 ## FITUR
 Adapun fitur fitur yang terdapat dalam program platform mirin yaitu:
