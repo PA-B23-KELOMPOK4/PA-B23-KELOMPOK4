@@ -15,6 +15,7 @@
 ![WhatsApp Image ](https://github.com/PA-B23-KELOMPOK4/PA-B23-KELOMPOK4/assets/144861672/df79aaf2-f01e-49e7-99de-ea71a4216817)
 
 
+
 ### A. Library
 1. import mysql.connector, untuk menghubungkan program Python dengan database MySQL
 2. from prettytable import PrettyTable, untuk membuat hasil tampilan program berbentuk tabel sehingga tampilan terlihat rapi dan terstruktur.
